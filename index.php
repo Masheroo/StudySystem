@@ -17,7 +17,7 @@
         <div class="header-nav">
             
             <div class="logo">
-                <h1 class="">LOGO</h1>
+                <h1 class="logo">IT-COURSES</h1>
             </div>
 
             <div class="nav-bar">
@@ -31,14 +31,12 @@
         </div>
 
         <div class="header-content">
-            <h1 class="header-content-title">Заголовок блока</h1>
+            <h1 class="header-content-title">Курсы в режиме <span class="online">online</span></h1>
             <p class="header-content-text">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla facili
-                s ex eum id incidunt ad. Praesentiu
-                m cum consequatur atque est dolor reiciendis veritatis aspernatur
-                aliquam pariatur quasi, accusantium impedit repudiandae!
+            Напиши о сайте и то что там будет изучатся,</br>
+если не умещаеться то в две строки.
             </p>
-            <input type="button" value="Начать обучение!">
+            <input class="header-btn" type="button" value="Начать обучение">
         </div>
 
     </section>
