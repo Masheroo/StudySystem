@@ -189,6 +189,12 @@
 .step-programm-content{
     padding: 0 0 5em 0;
 }
+.step-programm-item{
+    display: none;
+}
+.active-programm-item{
+    display: block !important;
+}
 .step-programm-item-title{
     font-family: 'Montserrat';
     font-style: normal;

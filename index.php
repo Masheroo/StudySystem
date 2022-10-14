@@ -78,8 +78,32 @@
                 </div>
             </div>
             <div class="step-programm-content">
+                <div class="step-programm-item active-programm-item">
+                    <p class="step-programm-item-title">Название этапа 1</p>
+                    <p class="step-programm-item-text">
+                        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Porro ducimus, vero atque est mollitia veritatis placeat natus debitis harum velit voluptates, nesciunt explicabo, tempora temporibus aut. Similique consectetur placeat explicabo.
+                    </p>
+                </div>
                 <div class="step-programm-item">
-                    <p class="step-programm-item-title">Название этапа</p>
+                    <p class="step-programm-item-title">Название этапа 2</p>
+                    <p class="step-programm-item-text">
+                        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Porro ducimus, vero atque est mollitia veritatis placeat natus debitis harum velit voluptates, nesciunt explicabo, tempora temporibus aut. Similique consectetur placeat explicabo.
+                    </p>
+                </div>
+                <div class="step-programm-item">
+                    <p class="step-programm-item-title">Название этапа 3</p>
+                    <p class="step-programm-item-text">
+                        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Porro ducimus, vero atque est mollitia veritatis placeat natus debitis harum velit voluptates, nesciunt explicabo, tempora temporibus aut. Similique consectetur placeat explicabo.
+                    </p>
+                </div>
+                <div class="step-programm-item">
+                    <p class="step-programm-item-title">Название этапа 4</p>
+                    <p class="step-programm-item-text">
+                        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Porro ducimus, vero atque est mollitia veritatis placeat natus debitis harum velit voluptates, nesciunt explicabo, tempora temporibus aut. Similique consectetur placeat explicabo.
+                    </p>
+                </div>
+                <div class="step-programm-item">
+                    <p class="step-programm-item-title">Название этапа 5</p>
                     <p class="step-programm-item-text">
                         Lorem ipsum dolor, sit amet consectetur adipisicing elit. Porro ducimus, vero atque est mollitia veritatis placeat natus debitis harum velit voluptates, nesciunt explicabo, tempora temporibus aut. Similique consectetur placeat explicabo.
                     </p>
@@ -88,5 +112,22 @@
         </div>
     </section>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <script src="js/functions.js"></script>
+    <script src="js/main.js"></script>
 </body>
 </html>
